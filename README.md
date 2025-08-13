@@ -1,0 +1,3 @@
+->  Here i have provided some csv files from kaggle for testing.
+-> the .ipynb file first saves that pickles in the same directory then after running streamlit file it load them and shows results for various classification algorithms chosen from the bar.
+-> use   streamlit run app.py to run the file
